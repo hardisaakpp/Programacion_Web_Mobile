@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="871cc473-5028-4c94-93b3-c6d2b6e9e11e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea2/Callback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea2/Promesas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea2/async_await.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tarea1/tarea_google.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -34,9 +38,13 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.tarea_google.html.executor": "Run",
+    "Node.js.Callback.js.executor": "Run",
+    "Node.js.Promesas.js.executor": "Run",
+    "Node.js.async_await.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Rebasing main",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/isaacortiz/Library/CloudStorage/OneDrive-InstitutoTecnologicoInternacional/Documents/ITI/Desarrollo de software/4to/Mobile_Web Apps/Programacion_Web_Mobile/TareaSemana2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -71,6 +79,7 @@
       <workItem from="1731798479402" duration="839000" />
       <workItem from="1731799324988" duration="12843000" />
       <workItem from="1731853907862" duration="121000" />
+      <workItem from="1731854043308" duration="2925000" />
     </task>
     <servers />
   </component>
