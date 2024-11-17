@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google</title>
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      margin: 0;
+      height: 100%;
+      background-color: #1a1a1a;
+    }
+
+    main {
+      flex: 1;
+      text-align: center;
+      margin-top: 30px;
+    }
+
+    footer {
+      position: fixed;
+      bottom: 0;
+      text-align: center;
+      width: 100%;
+      padding: 15px 0;
+      text-align: center;
+      margin-top: 50px;
+      background-color: #333333;
+    }
+
+    input::placeholder {
+      color: lightgray;
+    }
+  </style>
+</head>
+
+<body>
+    <!-- Encabezado principal -->
+    <header>
+      <nav style="display: flex; justify-content: flex-end; padding: 13px 20px; background-color: #333; color: whitesmoke; list-style: none;">
+          <ul style="display: flex; justify-content: flex-end; list-style: none; padding: 0; margin: 0;">
+            <li style="list-style: none; margin-left: 20px;"><a href="#" style="color: whitesmoke; text-decoration: none;">Gmail</a></li>
+            <li style="list-style: none; margin-left: 20px;"><a href="#" style="color: whitesmoke; text-decoration: none;">Imágenes</a></li>
+            <li style="list-style: none; margin-left: 20px;"><a href="#" style="color: whitesmoke; text-decoration: none;">Inicio de sesión</a></li>
+          </ul>
+      </nav>
+    </header>
+
+    <!-- Formulario de búsqueda -->
+    <main>
+        <!-- Logo de Google -->
+      <div style="text-align: center; margin-top: 50px;">
+        <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="Google Logo" width="280">
+      </div>
+
+        <!-- Barra de búsqueda -->
+        <section style="margin-top: 30px">
+            <form action="https://www.google.com/search" method="get">
+                <input
+                        type="text"
+                        name="q"
+                        placeholder="Buscar en Google"
+                        style="width: 60%; padding: 13px; font-size: 16px; background-color: dimgray; border-radius: 50px; border: none; color: white;"
+                >
+                <br><br>
+                <!-- Botones de búsqueda -->
+                <div>
+                    <button type="submit" style="padding: 10px 20px; font-size: 16px; background-color: dimgray; color: white; ">Buscar con Google</button>
+                    <button type="button" style="padding: 10px 20px; font-size: 16px; background-color: dimgray; color: white;">Voy a tener suerte</button>
+                </div>
+            </form>
+            <p style="color: whitesmoke">Google © 2024</p>
+        </section>
+    </main>
+
+    <!-- Pie de página -->
+    <footer>
+      <a href="#" style="color: whitesmoke; text-decoration: none;">Privacidad</a>
+        <a href="#" style="color: whitesmoke; text-decoration: none; margin-left: 20px;">Términos</a>
+        <a href="#" style="color: whitesmoke; text-decoration: none; margin-left: 20px;">Configuración</a>
+    </footer>
+</body>
+</html>
