@@ -1,5 +1,0 @@
-Tarea semana 5:
-
-Construir la Api solicitada y subir al repositorio de GitHub
-
-https://github.com/hardisaakpp/Programacion_Web_Mobile/tree/main/TareaSemana5
