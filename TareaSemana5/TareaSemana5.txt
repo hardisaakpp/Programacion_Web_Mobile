@@ -1,1 +1,5 @@
-Se ha creado un nuevo directorio correspondiente a la semana 5
+Tarea semana 5:
+
+Construir la Api solicitada y subir al repositorio de GitHub
+
+https://github.com/hardisaakpp/Programacion_Web_Mobile/tree/main/TareaSemana5
