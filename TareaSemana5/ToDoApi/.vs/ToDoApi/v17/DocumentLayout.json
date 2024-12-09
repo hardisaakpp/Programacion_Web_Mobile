@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ciortiz\\OneDrive - Instituto Tecnologico Internacional\\ProgramacionWebMovil\\ToDoApi\\",
+  "WorkspaceRootPath": "C:\\Users\\ciortiz\\OneDrive - Instituto Tecnologico Internacional\\Documents\\ITI\\Desarrollo de software\\4to\\Mobile_Web Apps\\Programacion_Web_Mobile\\TareaSemana5\\ToDoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B7991D0-25BA-49C9-843B-EC46796B146C}|ToDoApi\\ToDoApi.csproj|c:\\users\\ciortiz\\onedrive - instituto tecnologico internacional\\programacionwebmovil\\todoapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B7991D0-25BA-49C9-843B-EC46796B146C}|ToDoApi\\ToDoApi.csproj|c:\\users\\ciortiz\\onedrive - instituto tecnologico internacional\\documents\\iti\\desarrollo de software\\4to\\mobile_web apps\\programacion_web_mobile\\tareasemana5\\todoapi\\todoapi\\controllers\\newscaffoldeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7991D0-25BA-49C9-843B-EC46796B146C}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\controllers\\newscaffoldeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7991D0-25BA-49C9-843B-EC46796B146C}|ToDoApi\\ToDoApi.csproj|c:\\users\\ciortiz\\onedrive - instituto tecnologico internacional\\documents\\iti\\desarrollo de software\\4to\\mobile_web apps\\programacion_web_mobile\\tareasemana5\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7991D0-25BA-49C9-843B-EC46796B146C}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7991D0-25BA-49C9-843B-EC46796B146C}|ToDoApi\\ToDoApi.csproj|c:\\users\\ciortiz\\onedrive - instituto tecnologico internacional\\documents\\iti\\desarrollo de software\\4to\\mobile_web apps\\programacion_web_mobile\\tareasemana5\\todoapi\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7991D0-25BA-49C9-843B-EC46796B146C}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7991D0-25BA-49C9-843B-EC46796B146C}|ToDoApi\\ToDoApi.csproj|c:\\users\\ciortiz\\onedrive - instituto tecnologico internacional\\documents\\iti\\desarrollo de software\\4to\\mobile_web apps\\programacion_web_mobile\\tareasemana5\\todoapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7991D0-25BA-49C9-843B-EC46796B146C}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,15 +39,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TodoItem.cs",
-              "DocumentMoniker": "C:\\Users\\ciortiz\\OneDrive - Instituto Tecnologico Internacional\\ProgramacionWebMovil\\ToDoApi\\ToDoApi\\Models\\TodoItem.cs",
-              "RelativeDocumentMoniker": "ToDoApi\\Models\\TodoItem.cs",
-              "ToolTip": "C:\\Users\\ciortiz\\OneDrive - Instituto Tecnologico Internacional\\ProgramacionWebMovil\\ToDoApi\\ToDoApi\\Models\\TodoItem.cs",
-              "RelativeToolTip": "ToDoApi\\Models\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "NewScaffoldedItem.cs",
+              "DocumentMoniker": "C:\\Users\\ciortiz\\OneDrive - Instituto Tecnologico Internacional\\Documents\\ITI\\Desarrollo de software\\4to\\Mobile_Web Apps\\Programacion_Web_Mobile\\TareaSemana5\\ToDoApi\\ToDoApi\\Controllers\\NewScaffoldedItem.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Controllers\\NewScaffoldedItem.cs",
+              "ToolTip": "C:\\Users\\ciortiz\\OneDrive - Instituto Tecnologico Internacional\\Documents\\ITI\\Desarrollo de software\\4to\\Mobile_Web Apps\\Programacion_Web_Mobile\\TareaSemana5\\ToDoApi\\ToDoApi\\Controllers\\NewScaffoldedItem.cs",
+              "RelativeToolTip": "ToDoApi\\Controllers\\NewScaffoldedItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T03:30:51.022Z",
+              "WhenOpened": "2024-12-09T06:47:46.024Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ciortiz\\OneDrive - Instituto Tecnologico Internacional\\Documents\\ITI\\Desarrollo de software\\4to\\Mobile_Web Apps\\Programacion_Web_Mobile\\TareaSemana5\\ToDoApi\\ToDoApi\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ciortiz\\OneDrive - Instituto Tecnologico Internacional\\Documents\\ITI\\Desarrollo de software\\4to\\Mobile_Web Apps\\Programacion_Web_Mobile\\TareaSemana5\\ToDoApi\\ToDoApi\\Program.cs",
+              "RelativeToolTip": "ToDoApi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:08:51.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\ciortiz\\OneDrive - Instituto Tecnologico Internacional\\Documents\\ITI\\Desarrollo de software\\4to\\Mobile_Web Apps\\Programacion_Web_Mobile\\TareaSemana5\\ToDoApi\\ToDoApi\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\ciortiz\\OneDrive - Instituto Tecnologico Internacional\\Documents\\ITI\\Desarrollo de software\\4to\\Mobile_Web Apps\\Programacion_Web_Mobile\\TareaSemana5\\ToDoApi\\ToDoApi\\Models\\TodoContext.cs",
+              "RelativeToolTip": "ToDoApi\\Models\\TodoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:08:01.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\ciortiz\\OneDrive - Instituto Tecnologico Internacional\\Documents\\ITI\\Desarrollo de software\\4to\\Mobile_Web Apps\\Programacion_Web_Mobile\\TareaSemana5\\ToDoApi\\ToDoApi\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\ciortiz\\OneDrive - Instituto Tecnologico Internacional\\Documents\\ITI\\Desarrollo de software\\4to\\Mobile_Web Apps\\Programacion_Web_Mobile\\TareaSemana5\\ToDoApi\\ToDoApi\\Models\\TodoItem.cs",
+              "RelativeToolTip": "ToDoApi\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:30:51.022Z"
             }
           ]
         }
